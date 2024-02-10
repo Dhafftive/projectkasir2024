@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../perpustakaan"
+		},
+		{
+			"path": "../../elelang"
+		},
+		{
+			"path": "../../../../Users/B. Kurniadi/Documents/git_practice"
+		},
+		{
+			"path": "../../Cafeetaria"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ayoprakerin"
+	}
+}
